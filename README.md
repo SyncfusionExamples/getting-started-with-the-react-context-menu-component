@@ -1,6 +1,5 @@
 # Getting Started with the React Context Menu Component
 
-**Repository Description**  
 This repository provides a quick‑start React sample that demonstrates how to configure and use the Syncfusion React Context Menu component in a React application.
 
 A quick‑start project that helps configure the React Context Menu component with commonly used features such as item binding, icons, multilevel nesting, navigation links, animation, and basic customization options.
